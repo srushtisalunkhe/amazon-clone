@@ -19,7 +19,7 @@
 }
 
 .logo{
-    background-image: url("amazon-dark-logo-png-transparent33.png");
+    background-image: url("amazon_logo.png");
     background-size:contain;
     height:50px;
     width:100%;
@@ -281,7 +281,7 @@ ul p{
 }
 
 .logo {
-    background-image: url("amazon-dark-logo-png-transparent33.png");
+    background-image: url("amazon_logo.png");
     background-size:cover;
     height:40px;
     width:100px;
@@ -290,9 +290,6 @@ ul p{
 .foot-panel4{
     background-color: #0F1111;
     color:white;
-    /* display:flex; */
-    /* justify-content: center;
-    align-items: center; */
     font-size: 10px;
     height: 70px;
     text-align: center;
