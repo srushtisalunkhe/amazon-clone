@@ -15,7 +15,6 @@
 .nav-logo{
     height: 50px;
     width:100px;
-    /* margin-bottom: 5px; */
 }
 
 .logo{
@@ -26,11 +25,12 @@
 }
 
 .border{
-    border:1.5px solid transparent;
+    border:1px solid transparent;
 }
 
 .border:hover{
-    border:1.5px solid white
+    border:1px solid white;
+    border-radius: 2px;
 }
 
 /* box2 */
@@ -114,6 +114,9 @@ span{
 .nav-cart{
     font-size: 0.85rem;
     font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /* panel */
@@ -128,7 +131,10 @@ span{
 }
 
 .panel-all:hover{
-    border:1.5px solid white   
+    border:1px solid white ;
+    margin: 0;
+    padding: 8px 6px 12px 6px; 
+    border-radius: 1.5px;
 }
 
 .panel-ops p{
@@ -137,7 +143,10 @@ span{
 }
 
 .panel-ops p:hover{
-    border:1.5px solid white   
+    border:1px solid white;
+    margin: 0;
+    padding: 12px 8px 12px 8px; 
+    border-radius: 1.5px;
 }
 
 .panel-ops{
@@ -169,7 +178,7 @@ span{
     align-items: center;
     justify-content: center;
     font-size: 0.85rem;
-    width:80%;
+    width:90%;
     margin-bottom: 25px;
 }
 
