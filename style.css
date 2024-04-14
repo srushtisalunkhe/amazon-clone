@@ -278,8 +278,7 @@ ul p{
 }
 
 .foot-panel3{
-    /* background-color:#222f3d ; */
-    background-color: #131A22;
+    background-color:#222f3d ;
     color: white;
     border-top: 0.5px solid #3a4553;
     height: 70px;
@@ -296,7 +295,7 @@ ul p{
 }
 
 .foot-panel4{
-    background-color: #0F1111;
+    background-color: #131A22;
     color:white;
     font-size: 0.7rem;
     height: 80px;
