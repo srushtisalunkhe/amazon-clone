@@ -186,6 +186,12 @@ span{
     color: #008785;
 }
 
+.hero-msg a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: #C7511F;
+}
+
 /* shop section */
 
 .shop-section{
