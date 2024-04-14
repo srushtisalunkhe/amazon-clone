@@ -95,6 +95,10 @@
     color:#0F1111;
 }
 
+.search-icon:hover{
+    background-color:orange;
+}
+
 /* box4 */
 
 span{
